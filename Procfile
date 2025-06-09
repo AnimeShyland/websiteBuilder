@@ -1,1 +1,1 @@
-web: gunicorn gay_agenda_server:app
+web: python gay_agenda_server.py
